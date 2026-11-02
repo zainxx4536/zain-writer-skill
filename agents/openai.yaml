@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zain 文档编写"
+  short_description: "按用途新编中文详解与报告，或保留正确内容修改已有文档，落实格式与澄清要求"
+  default_prompt: "请使用 $zain-writer，按我的目标稿或输入资料完成文档任务；请求不明确时先询问，确认后再执行。"
+policy:
+  allow_implicit_invocation: true
